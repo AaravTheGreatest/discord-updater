@@ -1,4 +1,4 @@
-# github-updater
+# discord-updater
 
 Script to update Discord on Arch Linux, since auto-updates don't exist.  
 
